@@ -10,5 +10,13 @@ namespace XPOEjemplos
         static void Main(string[] args)
         {
         }
+        private void CrearDatos()
+        {
+            
+        }
+        private void CrearCliente()
+        {
+            
+        }
     }
 }
