@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XPOEjemplos", "XPOEjemplos\XPOEjemplos.csproj", "{1BE79810-FB6F-4492-BA3A-B6E72916A224}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicacionParaActualizarBaseDeDatos", "ApplicacionParaActualizarBaseDeDatos\ApplicacionParaActualizarBaseDeDatos.csproj", "{D08759B4-A1A2-48B4-9912-12ADF8DC0690}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1BE79810-FB6F-4492-BA3A-B6E72916A224}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BE79810-FB6F-4492-BA3A-B6E72916A224}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BE79810-FB6F-4492-BA3A-B6E72916A224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D08759B4-A1A2-48B4-9912-12ADF8DC0690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08759B4-A1A2-48B4-9912-12ADF8DC0690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08759B4-A1A2-48B4-9912-12ADF8DC0690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08759B4-A1A2-48B4-9912-12ADF8DC0690}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
