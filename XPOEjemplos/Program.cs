@@ -25,11 +25,13 @@ namespace XPOEjemplos
             //Ejemplos de conexion para todas las bases de XPO
             //https://www.devexpress.com/Support/Center/Question/Details/K18445
 
-          
+
 
             //Conexion a access, el provedor esta en el namspace DevExpress.Xpo.DB, alli estan los demas proveedores, como OracleConnectionProvider o MSSqlConnectionProvider
             //estos proveedores son clases estaticas que tiene un metodo para crear la cadena de conexion, esta cadena tambien se puede crear a mano segun los ejemplos de el link
-            //https://www.devexpress.com/Support/Center/Question/Details/K18445
+            //https://www.devexpress.com/Support/Center/Question/Details/K18445 o con la clase estatica segun los ejemplos de este link
+            https://documentation.devexpress.com/#CoreLibraries/CustomDocument3243
+
 
             //TODO quitar el comentario para usar access o mysql
 
